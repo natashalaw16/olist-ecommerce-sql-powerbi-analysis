@@ -23,14 +23,16 @@ The analysis focuses on several important business metrics:
 
 ## Dashboard Preview
 
-### Sales Dashboard
-![Sales Dashboard](screenshots/dashboard_sales.png)
+## Dashboard Preview
 
-### Customer & Seller Dashboard
-![Customers and Sellers](screenshots/dashboard_customers_and_sellers.png)
+### Sales Dashboard
+![Sales Dashboard](Olist_Ecommerce_SQL_Power_Bi_Analysis_Project/screenshots/dashboard_sales.png)
+
+### Customers & Sellers Dashboard
+![Customers Sellers](Olist_Ecommerce_SQL_Power_Bi_Analysis_Project/screenshots/dashboard_customers_and_sellers.png)
 
 ### Logistics Dashboard
-![Logistics Dashboard](screenshots/dashboard_logistics.png)
+![Logistics Dashboard](Olist_Ecommerce_SQL_Power_Bi_Analysis_Project/screenshots/dashboard_logistics.png)
 
 ## Project Files
 - SQL analysis queries
