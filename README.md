@@ -23,8 +23,6 @@ The analysis focuses on several important business metrics:
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ### Sales Dashboard
 ![Sales Dashboard](Olist_Ecommerce_SQL_Power_Bi_Analysis_Project/screenshots/dashboard_sales.png)
 
