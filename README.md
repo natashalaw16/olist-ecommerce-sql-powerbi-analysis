@@ -23,13 +23,13 @@ The analysis focuses on several important business metrics:
 
 ## Dashboard Preview
 
-### Sales Performance Dashboard
+### Sales Dashboard
 ![Sales Dashboard](screenshots/dashboard_sales.png)
 
-### Customer & Seller Insights Dashboard
-![Customers and Sellers Dashboard](screenshots/dashboard_customers_and_sellers.png)
+### Customer & Seller Dashboard
+![Customers and Sellers](screenshots/dashboard_customers_and_sellers.png)
 
-### Logistics & Delivery Performance Dashboard
+### Logistics Dashboard
 ![Logistics Dashboard](screenshots/dashboard_logistics.png)
 
 ## Project Files
